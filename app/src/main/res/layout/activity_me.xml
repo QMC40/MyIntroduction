@@ -13,7 +13,8 @@
         <ImageView
             android:id="@+id/imageView"
             android:layout_width="match_parent"
-            android:layout_height="650dp"
+            android:layout_height="0dp"
+            android:layout_weight="0.6"
             android:src="@drawable/me"
             android:contentDescription="@string/picture_of_me_and_tequila" />
 
@@ -21,6 +22,7 @@
             android:id="@+id/editTextTextMultiLine"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:layout_weight=".4"
             android:autofillHints="stuff"
             android:ems="10"
             android:gravity="start|top"

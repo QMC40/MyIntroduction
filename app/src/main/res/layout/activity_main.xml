@@ -38,7 +38,7 @@
                 android:layout_weight="1"
                 android:contentDescription="@string/dog_activity"
                 android:onClick="openTequilaActivity"
-                tools:srcCompat="@tools:sample/avatars" />
+                android:src="@drawable/small"/>
         </LinearLayout>
 
         <TextView

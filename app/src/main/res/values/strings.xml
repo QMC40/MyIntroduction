@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">My Introduction</string>
+    <string name="my_introduction">My Introduction!</string>
+    <string name="me">Me</string>
+    <string name="myDog">My Dog</string>
+    <string name="Navy">Navy</string>
+    <string name="travel">Where I\'ve Been</string>
+    <string name="me_activity">me_activity</string>
+    <string name="dog_activity">dog_activity</string>
+    <string name="navy_activity">navy_activity</string>
+    <string name="travel_activity">travel_activity</string>
+    <string name="title_activity_me">me_activity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>

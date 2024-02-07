@@ -26,8 +26,4 @@ class MainActivity : AppCompatActivity() {
         startActivity(intent)
     }
 
-    fun openTravelActivity(view: View) {
-        val intent = Intent(this, Travel::class.java)
-        startActivity(intent)
-    }
 }
